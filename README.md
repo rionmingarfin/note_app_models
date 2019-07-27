@@ -1,4 +1,28 @@
 <h1 align ='center'> note_app_models Rest-full-API </h1> 
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/npm-6.9.0-brightgreen.svg?style=flat-square" alt="npm version">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/NodeJS-12.4.0-blue.svg?style=flat-square" alt="npm version">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/ExpressJS-4.x-orange.svg?style=flat-square" alt="npm version">
+  </a>
+</div>
+<br>
+<br>
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img alt="restfulapi" title="Restful API" src="https://cdn-images-1.medium.com/max/871/1*d2zLEjERsrs1Rzk_95QU9A.png">
+  </a>
+ <a href="https://nodejs.org/">
+    <img alt="restfulapi" title="Restful API" src="https://user-images.githubusercontent.com/43402837/61989468-004b7080-b05a-11e9-81e3-fac776fde022.png">
+  </a>
+</p>
+<br>
+<br>
+
 
 ## link recomended
 ### [.env](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
